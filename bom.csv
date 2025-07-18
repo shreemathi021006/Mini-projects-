@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"BAT1",1," 9V Battery"
+"U1",1," 5V Regulator [LM7805]"
+"PIRleft_sesnor, PIRright_sensor",2," PIR Sensor"
+"U2",1," Hex Inverter"
+"U3",1," H-bridge Motor Driver"
+"Mleft_motor, Mright_motor",2," DC Motor"
